@@ -1,0 +1,7 @@
+google-cloud-translate==2.0.1
+google-cloud-texttospeech
+google-cloud-speech==2.7.0
+pyaudio==0.2.11
+six==1.16.0
+playsound
+pygobject
