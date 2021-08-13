@@ -2,7 +2,7 @@
 
 **This project is just a hobby, the source code is not even close to the "clean"!**
 
-This projects helps you to communicate via speak by only writen text.
+This projects helps you to communicate verbally in writing, using two different languages.
 
 What you have to do is:
 
